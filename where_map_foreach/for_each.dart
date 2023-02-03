@@ -1,6 +1,6 @@
 void main(List<String> args) {
   //! easy
-  // print the values of the map using for each method in list
+  // print the values of the list using for each method in list
   List<String> names = ['John', 'Jane', 'Jim', 'Jill'];
   // output should be John Jane Jim Jill
 
@@ -20,11 +20,12 @@ void main(List<String> args) {
   bool contains = false;
   String search = 'Flutter';
   // print true if the list contains the search string
+  
   //! hard
   // double the values in the map using for each
   Map<String, int> map = {"a": 1, "b": 2, "c": 3, "d": 4};
   Map<String, int> doubledMap = {};
-  doubledMap.forEach((key, value) {});
+  map.forEach((key, value) {});
   // output should be {"a": 2, "b": 4, "c": 6, "d": 8}
 
   // Write a function that takes a List of Maps and returns a Map with the sum of values for each key
@@ -35,13 +36,11 @@ void main(List<String> args) {
   ];
   Map<String, int> sumOfValues = {};
   sumOfValues.forEach((key, value) {});
-
   // output should be {"a": 6, "b": 12, "c": 18}
 
   // Sort a Map by its keys and values
   Map<String, int> alphabets = {'b': 2, 'a': 1, 'c': 3};
   Map<String, int> sortedAlphabets;
-
   // output should be {'a': 1, 'b': 2, 'c': 3}
 
   // Filter the map using for each if the value is greater than 3
