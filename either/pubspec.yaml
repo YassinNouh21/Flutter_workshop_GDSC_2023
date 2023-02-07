@@ -1,0 +1,5 @@
+name: either_task
+
+
+dependencies:
+  dartz: ^0.10.1
