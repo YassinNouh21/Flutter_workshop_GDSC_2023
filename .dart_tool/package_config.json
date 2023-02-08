@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "either_dart",
+      "rootUri": "file:///C:/Users/Yassin/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/either_dart-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dat",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    }
+  ],
+  "generated": "2023-02-08T23:22:44.986546Z",
+  "generator": "pub",
+  "generatorVersion": "2.13.1"
+}
