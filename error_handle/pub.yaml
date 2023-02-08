@@ -1,0 +1,4 @@
+name: try_and_catch.dart
+
+dependencies:
+  dartz: ^0.10.1
