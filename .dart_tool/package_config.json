@@ -2,19 +2,43 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "either_dart",
-      "rootUri": "file:///C:/Users/Yassin/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/either_dart-0.2.0",
+      "name": "clock",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/clock-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "dat",
+      "name": "intl",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "main",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.13"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-02-08T23:49:20.507986Z",
+  "generated": "2023-02-09T15:36:21.705272Z",
   "generator": "pub",
-  "generatorVersion": "2.13.1"
+  "generatorVersion": "2.17.3"
 }

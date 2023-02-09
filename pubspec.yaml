@@ -1,7 +1,8 @@
-name: dat
+name: main
 
 environment:
-  sdk: ">=2.13.0-317.0.dev <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
-  either_dart: ^0.2.0
+  js: ^0.6.0
+  intl: ^0.17.0
