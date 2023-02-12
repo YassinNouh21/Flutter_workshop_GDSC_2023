@@ -7,3 +7,11 @@ NOTES:
 2- USE Image assests search for it 
 3- for writing paragraph try to search also for it 
 
+Learning outcomes:
+1 - learn how to design simple ui 
+2-  learn more about column and row 
+3-  containers 
+4-  test styling 
+5-  app bar 
+6-  icon
+7-  mixed component  
