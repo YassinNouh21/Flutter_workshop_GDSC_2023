@@ -1,0 +1,15 @@
+* main references:
+https://bloclibrary.dev/#/
+
+https://pub.dev/packages/bloc
+
+https://pub.dev/packages/flutter_bloc
+
+* the diff between bloc & cubit
+https://medium.flutterdevs.com/bloc-v-s-cubit-in-flutter-application-6caa2825b26a#:~:text=The%20major%20difference%20between%20Bloc,we%20can%20track%20the%20state.
+
+https://ppantaleon.medium.com/flutter-bloc-vs-cubit-100a0fb0efcf
+
+// the users example with bloc but it's old code 
+https://github.com/ITI-9-Month-Progrm/Flutter/tree/main/Day05
+
