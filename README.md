@@ -1,7 +1,5 @@
 
-# Sessions Syllabus for Dart
-
-A brief description of what this project does and who it's for
+# Sessions Syllabus for GDSC Workshop 2023
 
 ### Dart Sessions 
  ### Session 1 
