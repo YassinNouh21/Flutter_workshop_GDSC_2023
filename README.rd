@@ -1,18 +1,100 @@
-init 
-
-What is your task is to build this ui 
-https://www.figma.com/file/0wNHzwiR9xDPBykvZaWdKx/Task-1?node-id=0%3A1&t=s53qTAbTGTCL9Kr2-1
-
-NOTES:
-1- USE SingleChildSCrollView 
-2- USE Image assests search for it 
-3- for writing paragraph try to search also for it 
-
-Learning outcomes:
-1 - learn how to design simple ui 
-2-  learn more about column and row 
-3-  containers 
-4-  test styling 
-5-  app bar 
-6-  icon
-7-  mixed component  
+Starting with 
+Dart Sessions 
+##- Session 1 
+    - Variables 
+        - Built-in Types
+            - Numbers
+            - Strings 
+            - Booleans 
+            - Lists 
+            - Maps
+            - Null
+            - Iterable
+        - Hints on new types 
+            - Enum
+            - Future and Stream
+            - Dynamic 
+        - const vs final 
+            - why to use final over const
+            - optimization
+    - Functions 
+        - Parameters
+            - Named parameters
+                - Requirded 
+                - Nullable
+            -  Positional parameter
+                - nullable
+                - not nullable
+            -  Optional positional
+        - Anonymous functions 
+        - print
+            - interpolation 
+    - Flow 
+        - ternary condition
+        - switch will be used 
+    - List
+        - map
+        - for each
+        - for vs for in
+        - asMap
+        - first where
+        - map vs foreach
+        - where
+    - iterable
+        - how to convert from iterable to list 
+        - map → iterateable → tolist
+##- Session 2
+    - Error catching
+        - try - on - catch - finally
+            - Throw
+            - rethrow
+        - Exceptions
+            - custom Exception
+        - Either 
+            - right only
+            - right and left
+            - fold 
+    - Future
+        - .value
+        - .delayed
+        - onError vs catchError
+    - Stream
+        - periodic
+            - listen
+                -   
+// onData
+  
+// onDone
+  
+// onError
+                - cancel
+        - async vs async* - await
+        -  return vs yield
+    - API
+        - status codes
+        - decode / encode
+##- Session 3 
+    - Class And Object
+        - attributes
+        - constuctors
+        - setter and getter
+        - methods
+    - Constructors
+        - defualt
+        - named
+        - const
+    - Override Methods
+        - other class methods
+        - operators
+    - Encapsulation
+        - getter
+        - setter
+    - Inheritance
+        - single level
+        - multi level
+        - Hierarchical level
+    - Super Keyword
+        - Implacity super constructor
+    - Abstractions
+    - Interfaces
+    - Mixins
