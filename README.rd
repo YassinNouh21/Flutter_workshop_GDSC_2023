@@ -1,6 +1,10 @@
-Starting with 
-Dart Sessions 
-##- Session 1 
+
+# Sessions Syllabus for Dart
+
+A brief description of what this project does and who it's for
+
+### Dart Sessions 
+ ### Session 1 
     - Variables 
         - Built-in Types
             - Numbers
@@ -43,7 +47,7 @@ Dart Sessions
     - iterable
         - how to convert from iterable to list 
         - map → iterateable → tolist
-##- Session 2
+### Session 2
     - Error catching
         - try - on - catch - finally
             - Throw
@@ -61,19 +65,13 @@ Dart Sessions
     - Stream
         - periodic
             - listen
-                -   
-// onData
-  
-// onDone
-  
-// onError
-                - cancel
+            - cancel
         - async vs async* - await
         -  return vs yield
     - API
         - status codes
         - decode / encode
-##- Session 3 
+### Session 3 
     - Class And Object
         - attributes
         - constuctors
@@ -98,3 +96,179 @@ Dart Sessions
     - Abstractions
     - Interfaces
     - Mixins
+# Sessions Syllabus for Flutter
+
+### Session 5
+    - Motivation 
+        - video vs picture
+        - what is frame
+    - what is state
+        - what is state
+        - change state
+    - stateful vs stateless 
+        - what is statelss 
+        - what is stateful 
+        - importance why there is different 
+    - how to manipulate state
+        - using set state
+        - brief intro about state management 
+    - what is event 
+    - Set state
+    - application 
+        - type buttons 
+### Session 4
+    - Project overview
+    - run vs main
+    - MaterialApp / Scaffold
+    - widget
+        - Appbar
+        - Container
+            - padding
+            - decoration
+        - Center
+        - Column
+        - Row 
+        - Text
+        - CircleAvatar
+        - Icon
+        - Image
+        - Text Style
+        - Single Childview
+        - Divide
+        - VerticalDivider
+
+### Session 6 
+    - onBoarding screen
+    - toast
+    - changing the icon of the app
+    - search bar
+    - sliver app bar
+    - change name of the app
+    - splash screen
+    - sliders 
+    - svg package
+    - navigation bar
+    - snackbar 
+    - alert 
+    - 
+### Session 7 
+    - what is responsive and adaptive
+        - responsive
+            - why do we need responsive 
+            - example of bad responsive
+            - good approach for responsive
+        - adaptive 
+            - what is adaptive
+            - how many platforms are supported by Flutter
+                - IOS
+                - Linux 
+                - Android
+                - Windows
+                - Web
+                - MacOs
+    - thinking type 
+        - orientation 
+        - device size 
+        - local ui design
+    - Breakpoints 
+        - what is breakpoints 
+        - dimensions 
+            - mobile 
+                - 480
+            - table
+                - 768
+            - window
+                - 1024
+    - common error 
+        - incorrect use of parrent wedgit 
+        - expanded → column 
+    - what is media query 
+        - bad use of media query 
+        - what is media query
+        - orientation vs size 
+    - layout builder 
+    - widgets
+        - expanded 
+        - flexible 
+        - spacer 
+        - sizedbox
+    - screen_util approach
+
+
+# Additional Session for Version Control : GitHub
+
+### GitHub
+- status 
+    - git status 
+        - tag 
+            - -s 
+                - brief  status 
+    - which branch are u in 
+    - status of files 
+        - tracked 
+        - tunracked 
+    - git ls-files 
+    - git log
+- commit to repo 
+    - git commit
+        - tags 
+            - -m 
+                - gives message
+    - chnage file from staged into 
+- Motivation 
+    - why they created GitHub?  
+    - version-control method 
+        - Local Version Control Systems
+        - Centralized Version Control Systems
+        - Distributed Version Control Systems
+- Architecture
+    - feature 
+        - track
+            - everything 
+            - there is history (LOG) 
+        - os indepenedent 
+        - unique id 
+    - working directory vs git repo
+        - working directory 
+            - offline 
+            - has only the updated version of the file 
+        - github repo
+            - has the history 
+    - How to track 
+        - Blob 
+            - content
+            - metadata
+            - two types of tracking 
+                - untracked(U) 
+                - tracked
+                    - modified(M)
+                    - unmodified 
+        - Tree
+            - content  
+            - metadata 
+    - Tree architecture 
+        - what are the components 
+            - working directory
+            - staging 
+            - GitHub directory 
+        - benefits 
+            - if u wanna review back before it 
+            - COMMIT IS DANGOUROUS 
+- initialize repo 
+    - git init 
+    - take care it is in the folder itself 
+- git ignore 
+- git pull 
+- git clone 
+- git branch
+- what is head
+- how to checkout ?? 
+- add to stage 
+    - git add 
+        - this add all files into stage area
+    - git rm 
+        - it removes from stage area 
+## Authors
+
+- [@YassinNouh21](https://www.github.com/YassinNouh21)
+
