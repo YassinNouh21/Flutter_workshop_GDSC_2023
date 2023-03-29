@@ -96,7 +96,7 @@
     - Mixins
 # Sessions Syllabus for Flutter
 
-### Session 5
+### Session 4
     - Motivation 
         - video vs picture
         - what is frame
@@ -114,7 +114,7 @@
     - Set state
     - application 
         - type buttons 
-### Session 4
+### Session 5
     - Project overview
     - run vs main
     - MaterialApp / Scaffold
@@ -134,6 +134,10 @@
         - Single Childview
         - Divide
         - VerticalDivider
+        - ListView
+        - GridView
+    - reusable components
+    - intro to clean code
 
 ### Session 6 
     - onBoarding screen
@@ -148,7 +152,7 @@
     - navigation bar
     - snackbar 
     - alert 
-    - 
+
 ### Session 7 
     - what is responsive and adaptive
         - responsive
